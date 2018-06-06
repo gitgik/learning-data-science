@@ -1,6 +1,6 @@
 
 #### Twitter Sentiments Analyzer
-Twitter is a treasure trove of snetiments. People output thousands of reaction and opinions on pretty much any topic.
+Twitter is a treasure trove of sentiments. People output thousands of reaction and opinions on pretty much any topic.
 
 We'll create a twitter sentiments analyzer which will have the ability to determin how positive or negative a tweets emotion is.
 

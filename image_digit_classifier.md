@@ -15,7 +15,7 @@ print(training_images.shape)
 
 
 ```python
-# create a network with two fully-contencted(dense) layers.
+# create a network with two fully-connected(dense) layers.
 # the 2nd layer return an array of 10 probability scores summing to 1.
 # each score is the probability that the current digit image belongs to one of the 10 digit classes.
 
